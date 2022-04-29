@@ -10,6 +10,8 @@ This guide is for installing LinuxLoops on your computer from Linux. There are t
 
 # Before you start
 
+Semi-private repo to recover things. This repository is only meant for my eyes, but as I'm a noob to Github, I haven't managed to make private repos yet. 
+
 LinuxLoops can only boot from unencrypted ext4 partitions so make sure that the destination partition is in ext4 format.
 
 # 1st method: Using your installed Linux distro grub as bootloader (Boot the image from HDD)
